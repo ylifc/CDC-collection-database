@@ -1,0 +1,27 @@
+{
+  "title": "CDC集合数据库",
+  "snapshot_date": "2026-10-19",
+  "description": "Unmodified local snapshots of two public protein FASTA reference files; exact upstream releases are unverified.",
+  "files": [
+    {
+      "file": "AMRProt.fa",
+      "bytes": 4658980,
+      "records": 9998,
+      "sequence_characters": 3412877,
+      "sha256": "dc21f47094024efb9bd46a7e239933323fe0eb24190185847e1f426f1696fe56",
+      "upstream_version": null,
+      "original_download_date": null,
+      "modified": false
+    },
+    {
+      "file": "VFDB_complete_pro.fas",
+      "bytes": 22206967,
+      "records": 34970,
+      "sequence_characters": 16133985,
+      "sha256": "599b8ece2b8aab982168f035f9faada6443434c048a2efbd9908db4613f6a619",
+      "upstream_version": null,
+      "original_download_date": null,
+      "modified": false
+    }
+  ]
+}
